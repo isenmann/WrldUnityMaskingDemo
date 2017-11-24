@@ -1,4 +1,4 @@
-# Wrld Unity SDK MaskingDemo
+# Wrld Unity SDK Masking Demo
 
 This is a small demo of using the [wrld Unity SDK](https://www.wrld3d.com/) to place the map on any surface you want. The SDK just provides rendering the whole map according to the camera's view. So you can't limit that to a specific size. 
 
